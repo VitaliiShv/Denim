@@ -1,0 +1,11 @@
+.card {
+}
+
+.card-title {
+  font-size: 18px;
+  margin-top: 25px;
+}
+.card-price {
+  font-weight: bold;
+  margin-top: 15px;
+}

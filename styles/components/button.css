@@ -1,0 +1,41 @@
+.button {
+  display: inline-block;
+  margin: 0;
+  border-radius: 0;
+  border: 1px solid transparent;
+  font-size: 14px;
+  padding: 8px 16px;
+  outline: none;
+  text-transform: none;
+  text-align: center;
+  text-decoration: none;
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+}
+.button:hover {
+  text-decoration: none;
+}
+.button:focus {
+  outline: none;
+}
+
+.button-primary {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  background-color: #151c22;
+  color: #ffffff;
+  margin: 0 auto;
+}
+
+.button-primary:hover {
+  color: #151c22;
+  background-color: #ffffff;
+  border-color: #151c22;
+}
+
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+}

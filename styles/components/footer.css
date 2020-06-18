@@ -1,0 +1,29 @@
+.footer {
+  background-color: #151c22;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.footer-container {
+  max-width: 500px;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+.logo-footer {
+  display: inline-block;
+
+  margin: 0 auto;
+}
+.logo-footer > img {
+  width: 75px;
+}
+.logo-footer-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 35px;
+}
+.nav-footer > .nav-item {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+}
