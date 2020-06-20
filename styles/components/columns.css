@@ -1,11 +1,11 @@
 .row {
   font-size: 0;
-  margin: -23px;
+  margin: -28px;
 }
 
 .row > .column {
   display: inline-block;
-  padding: 23px;
+  padding: 28px;
   font-size: 1rem;
   vertical-align: top;
 }

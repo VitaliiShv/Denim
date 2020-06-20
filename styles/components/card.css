@@ -1,11 +1,15 @@
-.card {
-}
-
 .card-title {
+  font-weight: 500;
   font-size: 18px;
-  margin-top: 25px;
+  line-height: 21px;
+  margin-bottom: 13px;
 }
-.card-price {
-  font-weight: bold;
-  margin-top: 15px;
+.card-image {
+   margin-bottom: 22px;
+}
+.car-image.large > img{
+height: 671px;
+}
+.car-image.small > img{
+  height: 270px;
 }
