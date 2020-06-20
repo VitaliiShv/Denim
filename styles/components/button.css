@@ -3,13 +3,15 @@
   margin: 0;
   border-radius: 0;
   border: 1px solid transparent;
-  font-size: 14px;
-  padding: 8px 16px;
+  font-size: 16px;
+  line-height: 19px;
+  padding: 27px 58px;
   outline: none;
   text-transform: none;
   text-align: center;
   text-decoration: none;
   appearance: none;
+  cursor: pointer;
   -moz-appearance: none;
   -webkit-appearance: none;
 }
@@ -22,12 +24,9 @@
 
 .button-primary {
   font-weight: bold;
-  font-size: 16px;
-  line-height: 19px;
   background-color: #151c22;
   color: #ffffff;
-  margin: 0 auto;
-}
+  }
 
 .button-primary:hover {
   color: #151c22;
