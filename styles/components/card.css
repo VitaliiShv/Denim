@@ -7,9 +7,9 @@
 .card-image {
    margin-bottom: 22px;
 }
-.car-image.large > img{
-height: 671px;
+.card-image.large > img{
+height: 652px;
 }
-.car-image.small > img{
+.card-image.small > img{
   height: 270px;
 }
